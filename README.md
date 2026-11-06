@@ -1,4 +1,4 @@
-# Tavern-Ordering-System-POS-TPS-
+# Tavern-Ordering-System
 
 ### DOCUMENTATION
 
